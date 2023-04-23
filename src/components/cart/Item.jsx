@@ -31,7 +31,7 @@ const Item = (props) => {
 
   return ( 
 
-    <div className='conteiner py-3'>
+    <div className='container py-3'>
        
     <main>
         <div className='row row-cols-1 justify-content-evenly 

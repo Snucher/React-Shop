@@ -10,7 +10,7 @@ const Slider = () => {
     <Carousel.Item interval={1000}>
       <img width={'100%'} height={800}
         className="d-block w-100"
-        src="/public/img/first.jpg"
+        src="./img/first.jpg"
         alt="First slide"
       />
       <Carousel.Caption>
@@ -30,7 +30,7 @@ const Slider = () => {
     <Carousel.Item interval={500}>
       <img width={'100%'} height={800}
         className="d-block w-100"
-        src="/public/img/second.jpg"
+        src="./img/second.jpg"
         alt="Second slide"
       />
       <Carousel.Caption>
@@ -40,7 +40,7 @@ const Slider = () => {
     <Carousel.Item>
       <img  width={'100%'}height={800}
         className="d-block w-100"
-        src="/public/img/three.jpg"
+        src="./img/three.jpg"
         alt="Third slide"
       />
       <Carousel.Caption>

@@ -10,7 +10,7 @@ const Footer = () => {
                       </img>
                   </a>
                 <p>
-                  A&B - надежный друг
+                  ReactShop
                 </p>
 </div>
                       <div className='col mb-3'>

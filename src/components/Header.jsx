@@ -36,7 +36,7 @@ const Header = () => {
           </Nav>
           <Nav>
             <Button variant="primary">
-                    Войти
+                    Вход
             </Button>
           </Nav>
         </Container>
